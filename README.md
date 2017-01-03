@@ -9,6 +9,4 @@ GUIBorderPane contains all the image handlers:
 -MyGrayContrastImageHandler: Converts an Image to gray and changes the contrast. Contrast values given by user.
 -MyEqualizeImageHandler: This Method takes a dark image and brightens it by even out the pixel values using histrogram equalization.
 
-
-Although many operations are peformed on gray images it's just as easy to perform on colored images by getting using three image arrays instead of one.
 ImageIo.java and Noise.java were written by instructor.
